@@ -1,0 +1,70 @@
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+.cal-box{
+    text-align: center;
+    
+
+}
+.box-a{
+    font-size: 2rem;
+    height: 100px;
+}
+.box-a:hover{
+    font-size: 2.1rem;
+    border-color: navy;
+    box-shadow: 2px 2px 5px grey;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    margin-right: 39px;
+    margin-top: -20px;
+}
+.button-a div ul{
+    list-style: none;
+}
+div ul li{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    background-color: black;
+    height: 70px;
+    width: 91px;
+    align-items: center;
+    margin: 5.5px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 25px;
+}
+.a:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    background-color: royalblue;
+    height: 70px;
+    width: 91px;
+    align-items: center;
+    margin: 5.5px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 25px;
+
+}
+.last-b:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    background-color: rosybrown;
+    height: 70px;
+    width: 91px;
+    align-items: center;
+    margin: 5.5px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 25px;
+
+
+}
